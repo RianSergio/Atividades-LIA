@@ -9,5 +9,3 @@ Resistores e jumpers para conexões
 Placa de prototipagem (breadboard)Fonte de alimentação para o Arduino (via USB ou bateria)
 # Funcionalidades
 Exibição do horário em formato de 12 ou 24 horas.Ajuste manual da hora.Mantém a hora atual mesmo após desligar, graças ao módulo RTC.
-# Como Montar
-Conecte o Display:Para um display de 7 segmentos, conecte os pinos aos pinos digitais do Arduino conforme o layout escolhido.Para um display LCD, conecte os pinos de dados (D4-D7) e controle (RS, E) ao Arduino.Conecte o Módulo RTC:Conecte os pinos SDA e SCL do módulo RTC aos pinos correspondentes no Arduino (A4 e A5 para o Arduino Uno).Conecte o VCC e GND do módulo RTC à fonte de alimentação do Arduino.Fonte de Alimentação:Conecte o Arduino a uma fonte de alimentação via cabo USB ou bateria.Upload do Código:Baixe o código fornecido neste repositório.Abra o Arduino IDE e carregue o código para o Arduino.
