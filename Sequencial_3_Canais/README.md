@@ -8,4 +8,5 @@ Programa para um sequencial de 3 LEDs conectados aos pinos digitais 4, 5 e 6 do 
 * Protoboard
 
 ## Diagrama 
+![WhatsApp Image 2024-09-20 at 22 03 52](https://github.com/user-attachments/assets/53101bc6-b749-4fca-aef6-30bc189077d8)
 
