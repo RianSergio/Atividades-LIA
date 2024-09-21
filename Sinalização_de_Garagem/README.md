@@ -9,4 +9,4 @@ Este projeto demonstra uma montagem básica utilizando um Arduino Uno e dois LED
 * Protoboard
 
 ## Diagrama 
-![Diagrama](https://github.com/PedroGomes-Albuquerque/LIA-ATIVIDADES/blob/main/Luzes-de-sinaliza%C3%A7%C3%A3o-de-garagem/Montagem2.png)
+![Grand Turing-Inari](https://github.com/user-attachments/assets/3cc5f134-76ac-4b0a-8c32-db52b940f013)
