@@ -9,7 +9,9 @@ O programa Blink é um dos exemplos mais básicos e tradicionais para quem está
 * Fios de conexão
 
 ## Diagrama de montagem 
-![Diagrama](https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Sala_1/Fig_pisca.jpg)
+
+![Grand Turing-Inari](https://github.com/user-attachments/assets/eb45a85d-93e9-40a4-9dc6-973588adf5ec)
+
 
 ## Funcionamentos 
 O código faz o LED embutido (geralmente conectado ao pino 13) ou um LED externo conectado a um pino digital piscar com intervalos de 1 segundo (1000 milissegundos). O ciclo de funcionamento é simples:
