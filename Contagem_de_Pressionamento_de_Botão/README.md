@@ -10,3 +10,4 @@ Este projeto demonstra como contar o número de vezes que um botão é pressiona
 * Protoboard
 
 ## Diagrama 
+![WhatsApp Image 2024-09-20 at 21 17 39](https://github.com/user-attachments/assets/94fae492-f3fe-4fcd-b3da-2532de5e8a8d)
