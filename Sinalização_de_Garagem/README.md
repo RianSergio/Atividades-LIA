@@ -9,4 +9,5 @@ Este projeto demonstra uma montagem básica utilizando um Arduino Uno e dois LED
 * Protoboard
 
 ## Diagrama 
-![Grand Turing-Inari](https://github.com/user-attachments/assets/3cc5f134-76ac-4b0a-8c32-db52b940f013)
+![WhatsApp Image 2024-09-20 at 21 50 06](https://github.com/user-attachments/assets/854179c4-74ab-46ec-afba-e4ad61090a6f)
+
