@@ -9,3 +9,4 @@ O programa Blink é um projeto se arduíno que faz o LED do próprio arduíno pi
 * Fios de conexão
 
 ## Diagrama de montagem 
+![Diagrama](https://github.com/Epaminondaslage/Aluno_Fulano_de_Tal/blob/main/Exercicio_em_Casa_1/Figura.jpeg)
