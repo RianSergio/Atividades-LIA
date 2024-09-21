@@ -1,8 +1,0 @@
-# Programa Blink
-O progroma blink faz com que um led faça piscar, sendo essa led sendo a do próprio arduíno, e também ligado no pino 13. Sendo assim, um programa bem básico.
-## Montagem
-* Peças para a montagem
-  * 01 Resistor 220 Ω
-  * 01 LED
-  * Protobord
-  * Fios
