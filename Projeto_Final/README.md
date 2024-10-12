@@ -2,15 +2,15 @@
 
 ## Componentes Utilizados
 
-- **Arduino Uno**
- - Microcontrolador responsável por processar e exibir a hora e data no display LCD.
+ - **Arduino Uno**
+  - Microcontrolador responsável por processar e exibir a hora e data no display LCD.
 
-- ## RTC DS3231 (Relógio de Tempo Real)
- - Um módulo que mantém o rastreamento preciso do tempo, mesmo quando o Arduino está desligado ou reiniciado. Esse módulo contém uma bateria de backup para garantir que o tempo seja mantido corretamente.
+ - ## RTC DS3231 (Relógio de Tempo Real)
+  - Um módulo que mantém o rastreamento preciso do tempo, mesmo quando o Arduino está desligado ou reiniciado. Esse módulo contém uma bateria de backup para garantir que o tempo seja mantido corretamente.
 
 
-- **Display LCD 16x2 com Interface I2C**
- - Permite a exibição de informações como a hora e a data. A interface I2C facilita a comunicação entre o display e o Arduino, utilizando apenas dois pinos (SDA e SCL) para enviar dados.
+ - **Display LCD 16x2 com Interface I2C**
+  - Permite a exibição de informações como a hora e a data. A interface I2C facilita a comunicação entre o display e o Arduino, utilizando apenas dois pinos (SDA e SCL) para enviar dados.
 
 
 
@@ -39,10 +39,10 @@ O sistema é programado para atualizar a hora e a data a cada segundo. Isso é f
 
 ## Implementação
 
-- **1. Leitura de Dados do RTC**: O Arduino lê os dados de tempo (horas, minutos e segundos) e de data (dia, mês e ano) do módulo DS3231 a cada segundo.
+ - **1. Leitura de Dados do RTC**: O Arduino lê os dados de tempo (horas, minutos e segundos) e de data (dia, mês e ano) do módulo DS3231 a cada segundo.
 
 
-- **2. Exibição no Display LCD**: Os dados são formatados e exibidos no LCD, garantindo que a informação esteja clara e precisa.
+ - **2. Exibição no Display LCD**: Os dados são formatados e exibidos no LCD, garantindo que a informação esteja clara e precisa.
 
 
-- **3. Manutenção do Tempo**: O módulo RTC DS3231 mantém o tempo mesmo quando o Arduino é desligado, garantindo que o relógio continue funcionando.
+ - **3. Manutenção do Tempo**: O módulo RTC DS3231 mantém o tempo mesmo quando o Arduino é desligado, garantindo que o relógio continue funcionando.
