@@ -2,12 +2,12 @@
 
 ## Componentes Utilizados
 
- - **Arduino Uno**
+- **Arduino Uno**
    
   - Microcontrolador responsável por processar e exibir a hora e data no display LCD.
 
  - **RTC DS3231 (Relógio de Tempo Real)**
-  - Um módulo que mantém o rastreamento preciso do tempo, mesmo quando o Arduino está desligado ou reiniciado. Esse módulo contém uma bateria de backup para garantir que o tempo seja mantido corretamente.
+Um módulo que mantém o rastreamento preciso do tempo, mesmo quando o Arduino está desligado ou reiniciado. Esse módulo contém uma bateria de backup para garantir que o tempo seja mantido corretamente.
 
 
  - **Display LCD 16x2 com Interface I2C**
