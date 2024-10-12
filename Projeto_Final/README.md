@@ -3,6 +3,7 @@
 ## Componentes Utilizados
 
  - **Arduino Uno**
+   
   - Microcontrolador responsável por processar e exibir a hora e data no display LCD.
 
  - **RTC DS3231 (Relógio de Tempo Real)**
